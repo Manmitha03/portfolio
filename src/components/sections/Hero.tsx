@@ -71,7 +71,7 @@ export function Hero() {
                 {/* Name */}
                 <motion.div variants={itemVariant} className="mb-4 relative">
                     <h2 className="font-display text-5xl md:text-7xl font-bold tracking-tighter text-white">
-                        Manmitha<span className="text-blue-500">.</span>
+                        Manmitha Chowdary A<span className="text-blue-500">.</span>
                     </h2>
                     <div className="absolute -inset-x-4 -inset-y-2 bg-gradient-to-r from-blue-500/0 via-blue-500/5 to-blue-500/0 blur-xl opacity-50" />
                 </motion.div>
@@ -91,9 +91,9 @@ export function Hero() {
 
                 {/* Description */}
                 <motion.p variants={itemVariant} className="max-w-2xl text-lg text-gray-400 leading-relaxed mb-10 font-light">
-                    Specializing in Next.js, React, and modern web technologies.
-                    I bridge the gap between complex backend logic and fluid frontend interactions
-                    to create seamless user experiences.
+                    I am a Cloud Engineer with a passion for building scalable and reliable cloud-based solutions.
+                    I specialize in designing, deploying, and managing applications on cloud platforms like AWS.
+                    My focus is on creating seamless user experiences by bridging the gap between complex backend logic and fluid frontend interactions.
                 </motion.p>
 
                 {/* CTA Buttons */}
