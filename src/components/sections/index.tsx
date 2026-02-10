@@ -1,0 +1,8 @@
+export { Hero } from "./Hero"
+export { Expertise } from "./Expertise"
+export { Skills } from "./Skills"
+export { Projects } from "./Projects"
+export { Certifications } from "./Certifications"
+export { Achievements } from "./Achievements"
+export { Resume } from "./Resume"
+export { Contact } from "./Contact"
