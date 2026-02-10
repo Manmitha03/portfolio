@@ -22,7 +22,7 @@ export function Expertise() {
                         textClassName="text-3xl md:text-5xl font-light text-[#e0e0e0] leading-[1.4]"
                         containerClassName="mb-12"
                     >
-                        I am a Full Stack Developer focused on building scalable, performant, and accessible web applications.
+                        I am a Cloud Engineer focused on building scalable, resilient, and secure cloud infrastructure.
                     </ScrollReveal>
 
                     <ScrollReveal

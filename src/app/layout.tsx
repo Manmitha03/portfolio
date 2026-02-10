@@ -22,9 +22,9 @@ const spaceMono = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Manmitha | Full Stack Developer",
-  description: "Portfolio of Manmitha, a Full Stack Developer specializing in Next.js, React, and modern web technologies.",
-  keywords: ["Full Stack Developer", "Next.js", "React", "Portfolio", "Web Development"],
+  title: "Manmitha | Cloud Engineer",
+  description: "Portfolio of Manmitha, a Cloud Engineer specializing in AWS, Cloud Architecture, and modern web technologies.",
+  keywords: ["Cloud Engineer", "AWS", "DevOps", "Portfolio", "Web Development"],
 };
 
 import { WebGLBackground } from "@/components/visuals/WebGLBackground";

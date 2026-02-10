@@ -79,7 +79,7 @@ export function Hero() {
                 {/* Role Label */}
                 <motion.div variants={itemVariant} className="mb-8">
                     <span className="font-mono text-blue-400 text-sm md:text-base tracking-[0.2em] uppercase py-1 px-3 rounded-full bg-blue-500/10 border border-blue-500/20">
-                        Full Stack Developer
+                        Cloud Engineer
                     </span>
                 </motion.div>
 
