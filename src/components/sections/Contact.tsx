@@ -30,9 +30,6 @@ export function Contact() {
                     >
                         LET'S BUILD<br />THE FUTURE.
                     </motion.h2>
-                    <p className="font-mono text-[#999] text-sm md:text-base max-w-sm leading-relaxed">
-                        Available for freelance projects and full-time opportunities.
-                    </p>
                 </div>
 
                 <div className="w-full md:w-auto mt-16 md:mt-0">

@@ -32,7 +32,7 @@ const projects = [
         title: "AuraPlus",
         category: "Full Stack",
         description: "AI Therapist Web App",
-        tags: ["Next.js", "Tailwind", "GSAP"],
+        tags: ["Next.js", "Tailwind", "Supabase", "Gemini API"],
         link: "https://github.com/Manmitha03/aura_plus",
     },
 ]

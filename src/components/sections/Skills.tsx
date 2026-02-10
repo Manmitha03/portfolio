@@ -5,15 +5,15 @@ import { motion } from "framer-motion"
 const skillCategories = [
     {
         title: "LANGUAGES & FRAMEWORKS",
-        skills: ["React / Next.js", "TypeScript", "Tailwind CSS", "Node.js", "Python", "PostgreSQL"],
+        skills: ["Python", "C++", "Javascript", "C", "HTML", "CSS"],
     },
     {
-        title: "TOOLS & DEVOPS",
-        skills: ["Git / GitHub", "Docker", "AWS", "Vercel", "Figma", "Jest / Cypress"],
+        title: "TOOLS",
+        skills: ["MySQL, AWS"],
     },
     {
         title: "CONCEPTS",
-        skills: ["REST / GraphQL", "CI/CD Pipelines", "System Architecture", "Agile Methodologies"],
+        skills: ["DBMS", "OS", "SQL", "OOPs", "Problem Solving", "Quick Learner", "Time Management", "Collaboration", "Adaptability"],
     },
 ]
 
