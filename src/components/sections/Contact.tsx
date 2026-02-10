@@ -6,6 +6,7 @@ const socialLinks = [
     { name: "LINKEDIN", url: "https://www.linkedin.com/in/manmitha-chowdary/", label: "LINKEDIN" },
     { name: "GITHUB", url: "https://github.com/Manmitha03", label: "GITHUB" },
     { name: "EMAIL", url: "mailto:manmitha03@gmail.com", label: "EMAIL" },
+    { name: "PHONE", url: "tel:+917842118675", label: "+91 78421 18675" },
 ]
 
 export function Contact() {
