@@ -9,7 +9,7 @@ const skillCategories = [
     },
     {
         title: "TOOLS",
-        skills: ["MySQL, AWS"],
+        skills: ["MySQL", "AWS"],
     },
     {
         title: "CONCEPTS",
